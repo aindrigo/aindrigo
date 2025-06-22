@@ -1,2 +1,2 @@
-# Hi, I'm aindrigo
+# Hi
 Not much to see here
